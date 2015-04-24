@@ -1,0 +1,1 @@
+Sebuah portal online berbasis PHP dan MySQL untuk alumni sekolah/perguruan tinggi.
